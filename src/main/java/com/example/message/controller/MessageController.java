@@ -14,6 +14,8 @@ import java.util.List;
 
 //Test af koden.
 
+//Anden test of koden, tester workflow.
+
 @Controller
 @RequestMapping("message")
 public class MessageController {
