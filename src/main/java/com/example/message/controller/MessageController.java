@@ -12,6 +12,8 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 import java.util.List;
 
+//Test af koden.
+
 @Controller
 @RequestMapping("message")
 public class MessageController {
